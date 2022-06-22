@@ -12,7 +12,7 @@ mayavi==4.6.2
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 pyface==6.1.2
 Pygments==2.5.2
